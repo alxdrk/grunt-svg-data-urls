@@ -32,7 +32,8 @@
     "grunt": "~0.4.1",
     "grunt-contrib-clean": "~0.5.0",
     "grunt-simple-mocha": "~0.4.0",
-    "grunt-contrib-coffee":"0.7.0"
+    "grunt-contrib-coffee":"0.7.0",
+    "image-size": "^0.5.1"
   },
   "peerDependencies": {
     "grunt": "~0.4.1"
